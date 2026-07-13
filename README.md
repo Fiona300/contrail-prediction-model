@@ -27,6 +27,7 @@ Instead of running heavy physics simulations for every flight, this pipeline:
 ## 🛠️ Built With
 
 * ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+* ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 * ![PyContrails](https://img.shields.io/badge/PyContrails-0052CC?style=flat&logoColor=white)
 * ![ERA5](https://img.shields.io/badge/ERA5_Copernicus-003399?style=flat&logoColor=white)
 * ![XGBoost](https://img.shields.io/badge/XGBoost-0A7741?style=flat&logoColor=white)
