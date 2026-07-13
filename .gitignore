@@ -1,0 +1,17 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.csv
+*.png
+
+# ERA5 data
+*.nc
+
+# Secrets
+.env
+.cdsapirc
+
+# OS
+.DS_Store
+Thumbs.db
