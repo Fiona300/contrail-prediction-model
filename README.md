@@ -26,12 +26,12 @@ Instead of running heavy physics simulations for every flight, this pipeline:
 
 ## Built With
 
-* Python
-* Google Colab
-* PyContrails
-* ERA5
-* XGBoost
-* Scikit-Learn
+- Python
+- Google Colab
+- PyContrails
+- ERA5
+- XGBoost
+- Scikit-Learn
 
 ---
 
