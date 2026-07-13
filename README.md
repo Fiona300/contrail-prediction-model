@@ -4,7 +4,7 @@ Predicting persistent contrail formation using CoCiP physics simulations, ERA5 a
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [About The Project](#about-the-project)
 - [Running The Project](#running-the-project)
@@ -13,7 +13,7 @@ Predicting persistent contrail formation using CoCiP physics simulations, ERA5 a
 
 ---
 
-## 🌟 About The Project
+## About The Project
 
 This project predicts persistent contrail formation by labeling flight waypoints with the Contrail Cirrus Prediction model (CoCiP) and training machine learning classifiers on ERA5 atmospheric data. 
 
@@ -24,18 +24,18 @@ Instead of running heavy physics simulations for every flight, this pipeline:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-* ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-* ![PyContrails](https://img.shields.io/badge/PyContrails-0052CC?style=flat&logoColor=white)
-* ![ERA5](https://img.shields.io/badge/ERA5_Copernicus-003399?style=flat&logoColor=white)
-* ![XGBoost](https://img.shields.io/badge/XGBoost-0A7741?style=flat&logoColor=white)
-* ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+* Python
+* Google Colab
+* PyContrails
+* ERA5
+* XGBoost
+* Scikit-Learn
 
 ---
 
-## 🚀 Running The Project
+## Running The Project
 
 This project was built entirely on **Google Colab**. You do not need to use the command line or install anything on your computer.
 
@@ -47,7 +47,7 @@ Click the button below to open the main notebook directly in Colab:
 
 ---
 
-## 💻 Usage
+## Usage
 
 Run the notebooks in order inside Colab:
 
@@ -72,7 +72,7 @@ model.fit(X_train[features], y_train)
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Fiona Diana** – fionadianaofficial@gmail.com
 
